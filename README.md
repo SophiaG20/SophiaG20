@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**SophiaG20/SophiaG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="Users/sophiag20/Pictures/Photos Library.photoslibrary/originals/7/7C14CC42-88F3-4E34-9B51-A83A783BF126.png" alt=background with Sophia G20 with icons for NASA, US ARMY, IBEW ALASKA, CSS, HTML,JS" width="100"height="100" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
