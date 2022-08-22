@@ -2,4 +2,4 @@
 
 ## Strengths: ***Curious***
 
-### Weaknesses: **Failed more than 50 Edison lifetimes and counting...**
+# Weaknesses: **Failed more than 50 Edison lifetimes and counting...**
