@@ -17,3 +17,5 @@ This spot is reserved for things that I am thinking about and doing in between t
 **Having ideas with Thompson**
 
 ***Thompsons Open Edition is almost done in >12 mins***
+
+# Wow just like that, ONE month passes
