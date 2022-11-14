@@ -1,6 +1,7 @@
 <a href="https://github.com/SophiaG20/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophiaG20&show_icons=true&theme=midnight-purple" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaG20&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/SophiaG20/github-readme-stats)
 
 
