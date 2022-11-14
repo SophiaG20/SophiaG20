@@ -2,6 +2,10 @@
 
 # ![my great header banner](March.png)
 
+<a href="https://github.com/SophiaG20/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophiaG20&show_icons=true&theme=midnight-purple" />
+</a>
+
 ## Strengths: ***Curious***
 
 # Weaknesses: **Failed more than 50 Edison lifetimes and counting...**
