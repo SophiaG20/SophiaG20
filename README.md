@@ -5,7 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaG20&layout=compact&theme=purple&card_width=800&langs_count=10)](https://github.com/SophiaG20/github-readme-stats)
 
 
-## I am a human being who is currently in my mid 30s. I am working to get off welfare. I will work in legal and ethical ways to achieve this. 
+## My grandpa was a design engineer @ NASA for everything before (1950's) and up until the 90's for what is known as "first humans on the moon..". I hope to bring that energy to Web3.
+Talks about #web3, #womanveterans, and #cryptocurrency
  - Additionally, I am a beta tester for both AI coding and AI text usage. 
  - I believe that diversity is important and that everyone should be treated with respect.
  - I listen to YouTube music and some Apple music, looking for new music suggestions.
