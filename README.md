@@ -7,7 +7,7 @@ Talks about #web3, #womanveterans, and #cryptocurrency
  - I believe that diversity is important and that everyone should be treated with respect.
  - I listen to YouTube music and some Apple music, looking for new music suggestions.
  - Either listening to ADHD chill music or Queens of the Stone Age or The Strokes. 
- - **I need to update my tunes...
+ - **I need to update my tunes...been using Amazon music and it has improved my day to do
 
 # ![my great header banner](March.png)
 
