@@ -1,5 +1,5 @@
 
-
+A little about me:
 
 ## My grandpa was a design engineer @ NASA for everything before (1950's) and up until the 90's for what is known as "first humans on the moon..". I hope to bring that energy to Web3.
 Talks about #web3, #womanveterans, and #cryptocurrency
