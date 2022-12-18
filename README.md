@@ -18,3 +18,5 @@ Talks about #web3, #womanveterans, and #cryptocurrency
 ## ***Onboarding Mfers since 2022***
 
 Part of Zougsoft and a OG mfers code club member 
+
+Trying to code everyday
