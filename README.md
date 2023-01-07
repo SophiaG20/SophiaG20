@@ -20,3 +20,5 @@ Talks about #web3, #womanveterans, and #cryptocurrency
 Part of Zougsoft and a OG mfers code club member 
 
 Trying to code everyday
+
+part of Mile High Mfers Code Club since January 2023 ✈️
