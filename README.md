@@ -10,7 +10,7 @@ Talks about #web3, #womanveterans, and #cryptocurrency
  - **I need to update my tunes...been using Amazon music and it has improved my day to do
 
 # ![my great header banner](March.png)
-Aa
+
 ## Strengths: ***Curious***
 
 # Weaknesses: **Failed more than 50 Edison lifetimes and counting...**
